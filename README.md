@@ -1,3 +1,3 @@
 # MERN AMAZONA
 cloned from mern323
-reset video 8
+hard reset video 8
